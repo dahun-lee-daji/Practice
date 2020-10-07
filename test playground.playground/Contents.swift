@@ -101,3 +101,5 @@ if hour>40 {
 }
 salary += hour*payPerHour
 
+//Test for github repo
+var test = " please "
